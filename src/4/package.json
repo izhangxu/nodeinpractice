@@ -1,0 +1,15 @@
+{
+  "name": "4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "evnetEmitter.4.12.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "signals": "^1.0.0"
+  }
+}
