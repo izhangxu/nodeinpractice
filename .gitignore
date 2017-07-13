@@ -9,5 +9,3 @@ node_modules
 asset
 
 test.js
-
-*.txt
