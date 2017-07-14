@@ -38,7 +38,7 @@ CsvParser.prototype._transform = function(chunk, encoding, callback) {
 			}
 		}
 	}
-	// callback();
+	callback();
 };
 
 CsvParser.prototype.addValue = function() {
